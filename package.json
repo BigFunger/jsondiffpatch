@@ -1,6 +1,6 @@
 {
-  "name": "jsondiffpatch",
-  "version": "0.1.38",
+  "name": "@bigfunger/jsondiffpatch",
+  "version": "0.1.38-webpack",
   "author": "Benjamin Eidelman <beneidel@gmail.com>",
   "description": "Diff & Patch for Javascript objects",
   "contributors": [
